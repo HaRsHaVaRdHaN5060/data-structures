@@ -8,5 +8,4 @@ int main() {
     else printf("%d is odd.", num);
     return 0;
 }
-Footer
-© 2022 GitHub, Inc.
+
